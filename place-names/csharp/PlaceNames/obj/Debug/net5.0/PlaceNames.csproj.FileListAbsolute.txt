@@ -1,0 +1,16 @@
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\bin\Debug\net5.0\PlaceNames.exe
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\bin\Debug\net5.0\PlaceNames.deps.json
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\bin\Debug\net5.0\PlaceNames.runtimeconfig.json
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\bin\Debug\net5.0\PlaceNames.runtimeconfig.dev.json
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\bin\Debug\net5.0\PlaceNames.dll
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\bin\Debug\net5.0\ref\PlaceNames.dll
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\bin\Debug\net5.0\PlaceNames.pdb
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net5.0\PlaceNames.csproj.AssemblyReference.cache
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net5.0\PlaceNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net5.0\PlaceNames.AssemblyInfoInputs.cache
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net5.0\PlaceNames.AssemblyInfo.cs
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net5.0\PlaceNames.csproj.CoreCompileInputs.cache
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net5.0\PlaceNames.dll
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net5.0\ref\PlaceNames.dll
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net5.0\PlaceNames.pdb
+C:\Users\djand\workspace\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net5.0\PlaceNames.genruntimeconfig.cache
